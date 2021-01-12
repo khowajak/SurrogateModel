@@ -8,6 +8,6 @@ Keywords : ' Proper Orthogonal Decomposition, SVD, Radial Basis Functions, Optim
 
 See also : ''
 
-Author : Kainat Khowaja
+Author : 'Kainat Khowaja'
 
 Submitted : January 12, 2020 by Kainat Khowaja
